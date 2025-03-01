@@ -1,4 +1,3 @@
-```
 # New-App
 
 This project is a React-based web application that showcases various online experiences offered by Airbnb. It was developed following a course on Scrimba.
@@ -121,5 +120,3 @@ If you'd like to contribute to this project, please fork the repository and use 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
